@@ -67,7 +67,7 @@
 
 <PageHeader>Labs</PageHeader>
 
-<div class="px-20 py-10 flex flex-wrap jus gap-10">
+<div class="px-20 py-10 flex flex-wrap justify-center gap-10">
     {#each labs as lab}
         <div class="card w-[30em] bg-base-100 shadow-xl image-full">
             <figure><img src={lab.img} alt="Lab-item" /></figure>

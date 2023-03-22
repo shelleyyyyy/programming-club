@@ -12,9 +12,10 @@
         </label>
         <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
+            <li><a href="/app">Home</a></li>
             <li><a href="/app/about">About / Blog</a></li>
             <li><a href="/app/labs">Labs</a></li>
-            <li><a href="/app/schedule">schedule</a></li>
+            <li><a href="/app/schedule">Schedule</a></li>
         </ul>
       </div>
     </div>
